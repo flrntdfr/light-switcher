@@ -14,10 +14,7 @@ Note that the compiled app is dockable.
 
 # TO DO
 
-* Improve the app icon.
 * Add a "Dismiss" button that exits the app with no changes.
 * Add a switch in the upper banner of the screen (that way, it will be easily accessible).
-* Maybe: Make the code look more sexy (?)
-
 
 ![Icon](./Ressources/Icon.png)
