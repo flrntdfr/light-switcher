@@ -2,6 +2,8 @@
 
 A modest Apple Script that enables the easy switch between macOS "light" and "dark" built-in modes.
 
+![Icon](./Ressources/Icon.png)
+
 # Use
 
 Lauch the script via Script Editor (.scpt file) or the compiled app (.app file) and choose your mode !
