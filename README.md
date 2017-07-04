@@ -6,7 +6,7 @@ A modest Apple Script that enables the easy switch between macOS "light" and "da
 
 Lauch the script via Script Editor (.scpt file) or the compiled app (.app file) and choose your mode !
 
-![Dialog box](../ressources/dialog_box.png)
+![Dialog box](./Ressources/dialog_box.png)
 
 Note that the compiled app is dockable.
 
