@@ -2,7 +2,9 @@
 
 A modest Apple Script that enables the easy switch between macOS "light" and "dark" built-in modes.
 
+<center>
 ![Icon](./Ressources/Icon.png)
+</center>
 
 # Use
 
