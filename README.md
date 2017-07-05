@@ -14,7 +14,7 @@ Note that the compiled app is dockable.
 
 # TO DO
 
-* Add a "Dismiss" button that exits the app with no changes.
+* Add a "Dismiss" button that exits the app with no changes or even a red cross at the top of the window (*is that possible with apple scrit ?*).
 * Add a switch in the upper banner of the screen (that way, it will be easily accessible).
 
 ![Icon](./Ressources/Icon.png)
