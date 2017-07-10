@@ -1,12 +1,15 @@
 # Light-switcher
 
 <p align="center">
-
-![Icon](./Ressources/Icon.png)
-
-</p>
+<img src="./Ressources/Icon.png" />
 
 A modest Apple Script that enables the easy switch between macOS "light" and "dark" built-in modes.
+</p>
+
+
+
+
+
 
 ![Comparison](./Ressources/comparison.png)
 
