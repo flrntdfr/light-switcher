@@ -14,11 +14,9 @@ Lauch the script via Script Editor (.scpt file) or the compiled app (.app file) 
 
 <p align="center">
 <img src="./Ressources/dialog_box.png" />
+
 Note that the compiled app is dockable.
 </p>
-
-![Dialog box](./Ressources/dialog_box.png)
-
 
 # TO DO
 
