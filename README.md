@@ -10,7 +10,7 @@ A modest Apple Script that enables the easy switch between macOS "light" and "da
 
 # Use
 
-Lauch the script via Script Editor (.scpt file) or the compiled app (.app file in the "releases" tab) and choose your mode !
+Lauch the script via Script Editor (`.scpt` file) or the compiled app (`.app file in the "releases" tab) and choose your mode !
 
 <p align="center">
 <img src="./Ressources/dialog_box.png" />
