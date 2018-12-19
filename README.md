@@ -1,7 +1,8 @@
 # Light-switcher
 
 <p align="center">
-<img src="./Ressources/applet.png" alt="App Icon"  height="200" />
+<img src="./Ressources/applet.png" alt="App Icon"  height="300" />
+<br>
 A modest AppleScript that enables the easy switch between macOS "light" and "dark" built-in modes (Mojave compatible).
 </p>
 
