@@ -15,65 +15,55 @@
    viewBox="0 0 250.00001 250"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    inkscape:export-filename="/Users/Florent/Desktop/test.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"
-   sodipodi:docname="Icon.svg">
+   inkscape:export-xdpi="200.16"
+   inkscape:export-ydpi="200.16"
+   sodipodi:docname="applet.svg">
   <defs
      id="defs4">
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4138">
+       id="linearGradient862"
+       inkscape:collect="always">
       <stop
-         style="stop-color:#0065e0;stop-opacity:1"
+         id="stop858"
          offset="0"
-         id="stop4140" />
+         style="stop-color:#000205;stop-opacity:1" />
       <stop
-         style="stop-color:#ff7206;stop-opacity:1"
+         id="stop860"
          offset="1"
-         id="stop4142" />
+         style="stop-color:#ffffff;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4138"
-       id="linearGradient4144"
-       x1="114.04057"
-       y1="135.15063"
-       x2="194.33817"
-       y2="197.03897"
+       xlink:href="#linearGradient862"
+       id="linearGradient870"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0432983,0,0,1.0432983,-0.14508038,796.94993)" />
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4138"
-       id="linearGradient5083"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0432983,0,0,1.0432983,-17.201243,796.94993)"
+       gradientTransform="matrix(1.0432983,0,0,1.0432983,-684.58583,-889.38289)"
        x1="114.04057"
        y1="135.15063"
        x2="194.33817"
        y2="197.03897" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4138"
-       id="linearGradient5095"
+       xlink:href="#linearGradient862"
+       id="linearGradient890"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0432983,0,0,1.0432983,-0.14508038,796.94993)"
+       gradientTransform="matrix(1.0432983,0,0,1.0432983,-462.0021,-1014.0023)"
        x1="114.04057"
        y1="135.15063"
        x2="194.33817"
        y2="197.03897" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4138"
-       id="linearGradient5097"
+       xlink:href="#linearGradient862"
+       id="linearGradient894"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0432983,0,0,1.0432983,-17.201243,796.94993)"
+       gradientTransform="matrix(1.0432983,0,0,1.0432983,-784.54211,-783.4038)"
        x1="114.04057"
        y1="135.15063"
-       x2="194.33817"
-       y2="197.03897" />
+       x2="203.92508"
+       y2="203.16374" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -83,10 +73,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.84"
-     inkscape:cx="38.078277"
-     inkscape:cy="150.51797"
+     inkscape:cx="139.63091"
+     inkscape:cy="138.18018"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g899"
      showgrid="false"
      units="pt"
      inkscape:window-width="1440"
@@ -102,7 +92,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -112,40 +102,29 @@
      id="layer1"
      transform="translate(0,-802.36222)">
     <g
-       id="g5099"
-       transform="translate(1.0869566,4.8913047)">
-      <g
-         transform="translate(2.1739037,8.6956289)"
-         id="g5085">
-        <circle
-           style="opacity:0.444;fill:url(#linearGradient4144);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="path4136"
-           cx="130.26723"
-           cy="927.36224"
-           r="108.80112" />
-        <circle
-           r="108.80112"
-           cy="927.36224"
-           cx="113.21107"
-           id="circle5081"
-           style="opacity:0.444;fill:url(#linearGradient5083);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      </g>
-      <g
-         id="g5089"
-         transform="translate(2.1739037,-18.478286)">
-        <circle
-           r="108.80112"
-           cy="927.36224"
-           cx="130.26723"
-           id="circle5091"
-           style="opacity:0.444;fill:url(#linearGradient5095);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <circle
-           style="opacity:0.444;fill:url(#linearGradient5097);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           id="circle5093"
-           cx="113.21107"
-           cy="927.36224"
-           r="108.80112" />
-      </g>
+       id="g899"
+       transform="matrix(0.95918413,0,0,0.95918413,2.6584031,40.783371)">
+      <circle
+         style="opacity:0.444;fill:url(#linearGradient870);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle868"
+         cx="-554.17358"
+         cy="-758.97058"
+         r="108.80112"
+         transform="rotate(-150.75655)" />
+      <circle
+         transform="matrix(0.87255186,-0.4885215,-0.4885215,-0.87255186,0,0)"
+         r="108.80112"
+         cy="-883.59003"
+         cx="-331.58984"
+         id="circle888"
+         style="opacity:0.444;fill:url(#linearGradient890);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:0.444;fill:url(#linearGradient894);fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle892"
+         cx="-654.12982"
+         cy="-652.99152"
+         r="108.80112"
+         transform="matrix(0.60339974,-0.79743887,-0.79743887,-0.60339974,0,0)" />
     </g>
   </g>
 </svg>

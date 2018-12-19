@@ -1,7 +1,8 @@
 # Light-switcher
 
 <p align="center">
-<img src="./Ressources/Icon.png" />
+<img src="./Ressources/applet.png" />
+
 
 A modest Apple Script that enables the easy switch between macOS "light" and "dark" built-in modes.
 </p>
